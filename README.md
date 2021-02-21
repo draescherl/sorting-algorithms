@@ -1,4 +1,4 @@
-# Pointers & arrays
+# Sorting algorithms
 
 
 ## Compilation
